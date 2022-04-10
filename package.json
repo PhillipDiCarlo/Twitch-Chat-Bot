@@ -1,5 +1,5 @@
 {
-  "name": "Twitch-Chat-Bot",
+  "name": "twitch-chat-bot",
   "version": "0.0.1",
   "description": "A self contained chatbot that interacts with any streamer's channel chat",
   "main": "twitchApi.js",
